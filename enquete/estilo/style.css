@@ -1,0 +1,17 @@
+.cartao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img{
+    height: 300px;
+    width: 350px;
+}
+
+span{
+    font-size: 25px;
+    color:black;
+    padding:1rem;    
+}
